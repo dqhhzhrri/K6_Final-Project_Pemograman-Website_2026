@@ -10,12 +10,13 @@ Deskripsi singkat mengenai aplikasi web yang dibangun (contoh: Aplikasi Sistem I
 
 ## 👥 Anggota Kelompok & Kontribusi
 
-| No | Nama Lengkap | NRP | Peran / Kontribusi Utama |
-| :--- | :--- | :--- | :--- |
-| 1 | [Nama Anggota 1] | [NRP 1] | [Contoh: Perancangan Database, ERD, & Backend API] |
-| 2 | [Nama Anggota 2] | [NRP 2] | [Contoh: Implementasi Aturan Bisnis, Transaksi DB, & Auth] |
-| 3 | [Nama Anggota 3] | [NRP 3] | [Contoh: Frontend React (Halaman Daftar, Detail, & Form)] |
-| 4 | [Nama Anggota 4] | [NRP 4] | [Contoh: Frontend Dashboard Monitoring, Pengujian, & Dokumentasi] |
+| No | Nama Lengkap | NRP | GitHub | Peran / Kontribusi Utama |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | George David Nebore | 5027221043 | [@daveyurbae](https://github.com/daveyurbae) | [Contoh: Perancangan Database, ERD, & Backend API] |
+| 2 | Mey Rosalina | 5027241004 | [@meyrosa](https://github.com/meyrosa) | [Contoh: Implementasi Aturan Bisnis, Transaksi DB, & Auth] |
+| 3 | Farrel Arteya Kumara | 5027251020 | [@FarrelKumara15](https://github.com/FarrelKumara15) | [Contoh: Frontend React (Halaman Daftar, Detail, & Form)] |
+| 4 | Sean Arthur Tamajaya | 5027251050 | [@minecraftsean321-ops](https://github.com/minecraftsean321-ops) | [Contoh: Frontend Dashboard Monitoring & Styling] |
+| 5 | D'Qhaizhar Ari Dhiaulhaq | 5027251083 | [@dqhhzhrri](https://github.com/dqhhzhrri) | [Contoh: Integrasi API, Pengujian (QA), & Dokumentasi] |
 
 ---
 
